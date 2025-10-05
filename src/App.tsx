@@ -8,12 +8,12 @@ function App() {
           <div className="flex justify-center mb-6">
             <img
               src="/icon.jpg"
-              alt="麻雀成績管理アプリ"
+              alt="じゃんれき"
               className="w-24 h-24 rounded-2xl shadow-lg"
             />
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            麻雀成績管理アプリ
+            じゃんれき
           </h1>
           <p className="text-xl text-gray-600 mb-2">
             あなたの麻雀全てを記録する
