@@ -93,7 +93,7 @@ function App() {
         </div>
 
         <footer className="text-center mt-12 text-gray-500 text-sm">
-          <p>© 2025 麻雀成績管理アプリ All rights reserved.</p>
+          <p>© 2025 じゃんれき All rights reserved.</p>
         </footer>
       </div>
     </div>
